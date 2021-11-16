@@ -1,0 +1,106 @@
+.singlepost{
+    flex: 9;
+}
+
+.singlepostWrapper{
+    padding: 20px;
+    padding-right: 0;
+}
+.imgpost{
+    width: 64%;
+    height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+
+.singleposttitle{
+    text-align: center;
+    margin: 10;
+    font-family:'Lora' serif;
+    font-size: 28px;
+    width: 62%;
+}
+
+.singleposredit{
+    float:right;
+    font-size: 16px;
+}
+.singleposticon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.singlepostdate{
+    margin-left: 10px;
+    cursor: pointer;
+    color: violet;
+
+}
+.singleposticon:first-child{
+    color: teal;
+}
+.singleposticon:last-child{
+    color: tomato;
+    background-color: tomato;
+}
+
+.singlepostinfo{
+    margin-bottom: 20;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-family:'varela Round' sans-serif;
+    color:#b39656;
+
+}
+.singlepostdesc{
+    
+    font-size: 18px;
+    width: 62%;
+    line-height: 25px;
+}
+
+.singlepostdesc::first-letter{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
